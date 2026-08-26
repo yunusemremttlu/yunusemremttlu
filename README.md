@@ -17,8 +17,7 @@ Web ekosisteminde **Angular, React, TypeScript, HTML, CSS ve JavaScript** kullan
 Sadece kod yazmakla kalmıyor; **Yalın Üretim, Risk Yönetimi, Proje Yönetimi ve Mühendislik Etiği ve Standartları** gibi temel mühendislik disiplinlerine olan hakimiyetim sayesinde geliştirdiğim projelerin profesyonel standartlara uygun ve sürdürülebilir olmasına özen gösteriyorum.
 
 ## 🔗 Contact Me 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunusemre-mutlu-837712353)
+<img src="https://skillicons.dev/icons?i=linkedln>
 
 ## 🛠️ Skills & Technologies
 
